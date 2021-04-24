@@ -1,0 +1,1 @@
+web: gunicorn pantau_api.wsgi
